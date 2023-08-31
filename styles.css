@@ -151,6 +151,9 @@ body {
     padding: 0vw 4.5vw;
     /* padding-top: 0; */
   }
+  #nav #button i {
+    display: initial;
+  }
   #main #nav h3 {
     font-size: 3.9vw;
   }
